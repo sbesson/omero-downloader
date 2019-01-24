@@ -105,6 +105,11 @@
         <name>Unidata Repository</name>
         <url>https://artifacts.unidata.ucar.edu/content/repositories/unidata-releases</url>
       </repository>
+      <repository>
+        <id>ome.staging</id>
+        <name>OME Staging Artifactory</name>
+        <url>https://artifacts.openmicroscopy.org/artifactory/simple/ome.staging</url>
+      </repository>
   </repositories>
 
   <build>
